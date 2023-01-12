@@ -23,7 +23,7 @@ python MalwareChecker.py source_ioc_list.txt
 Registering to the VirusTotel page, you can get your own API value. You can add the API value you have received to the VirusTotal Public section in the MalwareChecker.py file. (Since the current API will be used by every user downloaded, I recommend using your own API value to avoid restrictions.)
 
 
-![image](https://user-images.githubusercontent.com/65830370/155898708-f7a070b8-44c9-44d4-abbe-df0b89bcd97b.PNG)
+
 
 
 <h1>REPORT OUTPUT:</h1>
